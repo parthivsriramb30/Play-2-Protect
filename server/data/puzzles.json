@@ -1,0 +1,116 @@
+[
+  {
+    "id": "puz-01",
+    "type": "match",
+    "title": "Anti-Doping Terminology Match",
+    "description": "Match each critical anti-doping term with its correct definition.",
+    "xpReward": 20,
+    "pairs": [
+      { "id": "p1", "term": "Strict Liability", "definition": "Athlete is solely responsible for any substance found in their body." },
+      { "id": "p2", "term": "TUE", "definition": "Official exemption permitting an athlete to use a necessary medication." },
+      { "id": "p3", "term": "In-Competition", "definition": "Period starting 11:59 PM before the event through the end of testing." },
+      { "id": "p4", "term": "Prohibited List", "definition": "The annual global list identifying banned substances and methods." }
+    ]
+  },
+  {
+    "id": "puz-02",
+    "type": "scramble",
+    "title": "Clean Sport Word Scramble",
+    "description": "Unscramble the letters to reveal this crucial anti-doping principle.",
+    "xpReward": 20,
+    "scrambled": "IPODGN",
+    "answer": "DOPING",
+    "hint": "The use of prohibited substances or methods to artificially alter performance."
+  },
+  {
+    "id": "puz-03",
+    "type": "identify-risky",
+    "title": "Spot the High-Risk Product",
+    "description": "Which of these 4 product descriptions shows the highest risk of containing unlisted prohibited substances?",
+    "xpReward": 20,
+    "options": [
+      { "id": "o1", "text": "Brand A: Plain rolled oats with organic dried cranberries and USDA organic seal", "isRisky": false },
+      { "id": "o2", "text": "Brand B: 'Extreme Underground Anabolic Igniter' with proprietary herbal matrix claiming 15 lbs muscle in 2 weeks", "isRisky": true },
+      { "id": "o3", "text": "Brand C: Electrolyte hydration tabs with NSF Certified for Sport badge and batch lot number", "isRisky": false },
+      { "id": "o4", "text": "Brand D: Pure Vitamin C 500mg tablets from a licensed domestic pharmacy", "isRisky": false }
+    ],
+    "explanation": "Proprietary formulas claiming rapid, extreme hormonal results frequently contain illicit stimulants, SARMs, or steroid analogues not listed on the label."
+  },
+  {
+    "id": "puz-04",
+    "type": "scramble",
+    "title": "Substance Scramble: Anabolic Agent",
+    "description": "Unscramble this banned beta-2 agonist and anabolic agent often abused for rapid fat loss.",
+    "xpReward": 20,
+    "scrambled": "BLTUERELOCN",
+    "answer": "CLENBUTEROL",
+    "hint": "A prohibited substance under WADA S1.2 that can cause severe heart palpitations."
+  },
+  {
+    "id": "puz-05",
+    "type": "true-false",
+    "title": "Label Inspection Challenge",
+    "description": "True or False: If a dietary supplement is sold in a major retail health store, it is guaranteed 100% free of WADA-prohibited substances.",
+    "xpReward": 20,
+    "statement": "If a dietary supplement is sold in a major retail health store, it is guaranteed 100% free of WADA-prohibited substances.",
+    "isTrue": false,
+    "explanation": "FALSE. Retail stores sell thousands of products with varied supply chains. Store stocking does not equate to independent anti-doping batch testing."
+  },
+  {
+    "id": "puz-06",
+    "type": "match",
+    "title": "Substance Classification Match",
+    "description": "Match each substance with its official category under the WADA Prohibited List.",
+    "xpReward": 20,
+    "pairs": [
+      { "id": "p1", "term": "Oxandrolone", "definition": "S1. Anabolic Androgenic Steroid" },
+      { "id": "p2", "term": "Erythropoietin (EPO)", "definition": "S2. Peptide Hormones & Growth Factors" },
+      { "id": "p3", "term": "Pseudoephedrine", "definition": "S6. Stimulants (In-Competition Threshold)" },
+      { "id": "p4", "term": "Salbutamol", "definition": "S3. Beta-2 Agonists (Permitted via inhalation within limits)" }
+    ]
+  },
+  {
+    "id": "puz-07",
+    "type": "scramble",
+    "title": "Nutritional Science Scramble",
+    "description": "Unscramble this naturally occurring organic compound widely permitted in sports nutrition.",
+    "xpReward": 20,
+    "scrambled": "ETACNIRE",
+    "answer": "CREATINE",
+    "hint": "Stored in muscles as phosphocreatine and widely researched for explosive power."
+  },
+  {
+    "id": "puz-08",
+    "type": "identify-risky",
+    "title": "Find the Misleading Advice",
+    "description": "Identify the statement that represents dangerous misinformation for an athlete.",
+    "xpReward": 20,
+    "options": [
+      { "id": "o1", "text": "Drinking water with a pinch of salt helps replace sweat electrolyte losses during long endurance runs.", "isRisky": false },
+      { "id": "o2", "text": "If a pill comes from a plant, you can take as much as you want because natural ingredients never get flagged on doping tests.", "isRisky": true },
+      { "id": "o3", "text": "Athletes should check their prescription asthma inhalers on Global DRO to verify permitted inhalation dose limits.", "isRisky": false },
+      { "id": "o4", "text": "Consuming 20-30g of dietary protein every 3-4 hours supports optimal muscle protein synthesis.", "isRisky": false }
+    ],
+    "explanation": "Natural plants can contain potent prohibited alkaloids (like ephedrine or cannabis derivatives) or may be laced with synthetic chemicals."
+  },
+  {
+    "id": "puz-09",
+    "type": "true-false",
+    "title": "The Whereabouts Rule",
+    "description": "True or False: An athlete in the Registered Testing Pool can refuse an unannounced test if the DCO arrives before 7:00 AM.",
+    "xpReward": 20,
+    "statement": "An athlete in the Registered Testing Pool can refuse an unannounced test if the DCO arrives before 7:00 AM.",
+    "isTrue": false,
+    "explanation": "FALSE. Testing can occur anytime, anywhere with no advance notice. Refusing or evading a sample collection is an Anti-Doping Rule Violation."
+  },
+  {
+    "id": "puz-10",
+    "type": "scramble",
+    "title": "Integrity Scramble",
+    "description": "Unscramble this word representing the core value of clean sport.",
+    "xpReward": 20,
+    "scrambled": "RNOSSMIPHTAS",
+    "answer": "SPORTSMANSHIP",
+    "hint": "Fair play, ethical respect, and honor in athletic competition."
+  }
+]

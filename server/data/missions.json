@@ -1,0 +1,164 @@
+[
+  {
+    "id": "story-01",
+    "title": "One Day Before the Competition",
+    "subtitle": "A sudden throbbing headache on the eve of your biggest championship.",
+    "xpReward": 50,
+    "situation": "It is 9:30 PM in your hotel room before the national athletics trials tomorrow morning. You develop a splitting sinus headache and feverish congestion. On the bedside table, your roommate left an open pack of cold tablets labeled in a foreign language that they bought abroad, and your teammate suggests swallowing two pills so you can sleep.",
+    "choices": [
+      {
+        "id": "c1",
+        "text": "Take two pills immediately so you can get to sleep before race morning.",
+        "isCorrect": false,
+        "yourDecision": "You swallowed two tablets from the unverified foreign medicine pack.",
+        "whatCouldHappen": "The medication contained high concentrations of pseudoephedrine or ephedrine. The next morning, you win silver, but the in-competition doping control urine sample tests positive for prohibited stimulants, resulting in disqualification, medal forfeiture, and a 2-year suspension.",
+        "betterApproach": "Never ingest unverified medications. Always contact your team doctor, verified sports physician, or check the active pharmaceutical ingredients on Global DRO first.",
+        "educationalExplanation": "Under the Strict Liability principle, intent does not matter. Cold and sinus medications commonly contain WADA-prohibited stimulants that stay detectable for 24-48 hours."
+      },
+      {
+        "id": "c2",
+        "text": "Ask a random friend on WhatsApp if they've used this brand before.",
+        "isCorrect": false,
+        "yourDecision": "You relied on peer reassurance on a messaging app.",
+        "whatCouldHappen": "Your friend might not be a tested athlete, or their formulation might have been bought in a different country with different ingredients under the same brand name. You remain at extreme risk.",
+        "betterApproach": "Friends and coaches without formal sports pharmacotherapy training cannot verify WADA compliance.",
+        "educationalExplanation": "Formulations often vary by region. For instance, cold remedies in Europe or the US may contain ingredients that differ from local domestic formulations."
+      },
+      {
+        "id": "c3",
+        "text": "Check verified databases (Global DRO / NADA) or consult the accredited event medical officer.",
+        "isCorrect": true,
+        "yourDecision": "You paused, checked the active ingredient against official anti-doping resources, and contacted the event physician.",
+        "whatCouldHappen": "The doctor advises a safe, permitted alternative (such as standard paracetamol without decongestants) and records the treatment in your official medical log. You compete clear-headed and 100% clean.",
+        "betterApproach": "You followed the golden rule of clean sport: If in doubt, verify with official authorities before ingestion.",
+        "educationalExplanation": "Legitimate anti-doping hotlines and databases exist 24/7 to provide instantaneous verification of active ingredients."
+      },
+      {
+        "id": "c4",
+        "text": "Take an herbal sleep tea supplement offered by the hotel front desk instead.",
+        "isCorrect": false,
+        "yourDecision": "You opted for an unknown herbal blend assuming 'natural' is always safe.",
+        "whatCouldHappen": "Herbal blends can contain unlisted tranquilizing botanicals or cross-contamination from unstandardized packaging facilities.",
+        "betterApproach": "Stick to pure hydration and verified non-prohibited medical options recommended by team staff.",
+        "educationalExplanation": "Dietary and herbal supplements carry the highest rate of accidental contamination in collegiate and elite sports."
+      }
+    ]
+  },
+  {
+    "id": "story-02",
+    "title": "The Unknown Supplement",
+    "subtitle": "An enticing pre-workout scoop offered during a grueling training block.",
+    "xpReward": 50,
+    "situation": "You are feeling sluggish during a heavy training session. A popular local bodybuilder pulls a matte black tub called 'Vortex Rage Matrix' out of their gym bag. 'Take a double scoop of this,' they say. 'It's imported from an underground lab, hits way harder than commercial stuff, and burns fat instantly.'",
+    "choices": [
+      {
+        "id": "c1",
+        "text": "Accept the scoop because the bodybuilder has 50k followers and looks in great shape.",
+        "isCorrect": false,
+        "yourDecision": "You took the underground pre-workout scoop.",
+        "whatCouldHappen": "The tub contained DMAA (1,3-dimethylamylamine) or DMBA—prohibited sympathomimetic stimulants. Within 20 minutes, your resting heart rate spikes to 160 BPM with dizziness and arrhythmia, followed by a failed post-meet drug test.",
+        "betterApproach": "Decline with confidence. A physique on social media is zero indicator of anti-doping compliance or cardiovascular safety.",
+        "educationalExplanation": "'Underground' or aggressively marketed fat burners frequently spike their powders with banned research chemicals to artificially heighten perceived potency."
+      },
+      {
+        "id": "c2",
+        "text": "Decline the scoop, explain you only use batch-tested products, and stick to water and fruit.",
+        "isCorrect": true,
+        "yourDecision": "You politely declined and relied on natural carbohydrate fueling and hydration.",
+        "whatCouldHappen": "You finish your session with steady natural energy, protect your heart from dangerous stimulant strain, and maintain total anti-doping integrity.",
+        "betterApproach": "Prioritize hydration, a banana or whole-grain snack 60 minutes pre-workout, and a consistent sleep schedule.",
+        "educationalExplanation": "Third-party tested products (Informed Sport / BSCG) or simple dietary carbohydrates provide dependable performance without risking your athletic career."
+      },
+      {
+        "id": "c3",
+        "text": "Take only half a scoop, thinking a smaller dose won't show up on a drug test.",
+        "isCorrect": false,
+        "yourDecision": "You assumed microdosing an illicit supplement avoids detection.",
+        "whatCouldHappen": "Modern mass spectrometry at WADA-accredited laboratories detects prohibited substances in picograms per milliliter (trillionths of a gram). You still test positive.",
+        "betterApproach": "Dose size does not grant immunity from detection or strict liability rules.",
+        "educationalExplanation": "Laboratories possess extraordinary sensitivity. A fraction of a scoop containing banned stimulants easily produces an Adverse Analytical Finding."
+      }
+    ]
+  },
+  {
+    "id": "story-03",
+    "title": "Social Media Advice",
+    "subtitle": "Viral fitness reels promoting 'unregulated game changers'.",
+    "xpReward": 50,
+    "situation": "You scroll through TikTok/Instagram and see a viral reel by a fitness influencer with 1 million views. They claim that standard sports nutrition is a scam, and that ordering an unregulated 'herbal peptide SARM alternative' online gave them 10 kg of lean muscle in six weeks with 'zero health consequences'.",
+    "choices": [
+      {
+        "id": "c1",
+        "text": "Click their affiliate discount link and order a 3-month supply immediately.",
+        "isCorrect": false,
+        "yourDecision": "You purchased experimental chemicals based on an influencer's paid promotion.",
+        "whatCouldHappen": "The product is classified as a Selective Androgen Receptor Modulator (SARM like Ostarine or Ligandrol), an S1 prohibited anabolic agent. It causes liver enzymes to elevate 4x and leads to a 4-year competitive ban.",
+        "betterApproach": "Scrutinize social media fitness marketing. Most dramatic transformations involve covert performance-enhancing drugs and commercial kickbacks.",
+        "educationalExplanation": "SARMs are not approved for human medical use by regulatory bodies like the FDA or EMA and are banned by WADA at all times."
+      },
+      {
+        "id": "c2",
+        "text": "Investigate the claims using accredited sports science databases and consult a qualified sports dietitian.",
+        "isCorrect": true,
+        "yourDecision": "You cross-referenced the active compounds on scientific literature and verified that SARMs are banned and dangerous.",
+        "whatCouldHappen": "You save your money, protect your endocrine health from permanent shutdown, and redouble your focus on sound training principles.",
+        "betterApproach": "Seek advice from registered sports dietitians (RD / CSSD) and official sports medicine authorities rather than algorithm-driven influencers.",
+        "educationalExplanation": "Evidence-based nutrition consistently outperforms unregulated compounds without jeopardizing your health or competitive eligibility."
+      }
+    ]
+  },
+  {
+    "id": "story-04",
+    "title": "The Pressure to Perform",
+    "subtitle": "Dealing with chronic fatigue, selection trials, and the temptation of shortcuts.",
+    "xpReward": 50,
+    "situation": "You have been training 6 days a week for 6 months. Your times have plateaued, your joints ache, and team selections are in two weeks. An older athlete quietly pulls you aside in the locker room and offers an injectable recovery peptide: 'Everyone who makes the national squad is doing this. If you don't take it, you're just giving your spot away.'",
+    "choices": [
+      {
+        "id": "c1",
+        "text": "Give in to the pressure and accept the injection to ensure you make the team.",
+        "isCorrect": false,
+        "yourDecision": "You accepted an illicit peptide injection under peer pressure.",
+        "whatCouldHappen": "Peptides like GHRPs or BPC-157 are prohibited S2/S0 agents. You risk unsterile needle infections, cardiac complications, and immediate exposure during out-of-competition blood testing.",
+        "betterApproach": "Speak to your head coach, team psychologist, or athlete ombudsman about overtraining syndrome and deloading strategies.",
+        "educationalExplanation": "The belief that 'everyone is doping' is a known cognitive distortion used by cheaters to rationalize their own unethical actions. The majority of athletes compete clean."
+      },
+      {
+        "id": "c2",
+        "text": "Refuse the offer, report the illicit distribution to the clean sport whistleblowing channel, and adjust your recovery protocol.",
+        "isCorrect": true,
+        "yourDecision": "You protected yourself and your teammates by standing firm and utilizing confidential reporting channels.",
+        "whatCouldHappen": "The anti-doping integrity unit investigates the distributor, keeping the locker room clean. You take a structured 3-day recovery deload, bounce back naturally, and make the team with true pride.",
+        "betterApproach": "Plateaus are solved with training periodization, proper sleep, and medical bloodwork (checking iron, ferritin, and vitamin D), not banned drugs.",
+        "educationalExplanation": "WADA's 'Speak Up!' platform and national whistleblower hotlines provide confidential avenues to stop doping rings safely."
+      }
+    ]
+  },
+  {
+    "id": "story-05",
+    "title": "Clean Sport Challenge: The Doping Control Station",
+    "subtitle": "Your first unannounced post-competition doping test.",
+    "xpReward": 50,
+    "situation": "You finish the 400m final in 1st place! As you step off the track, an official Doping Control Officer (DCO) taps your shoulder, shows their official accreditation badge, and notifies you that you have been selected for doping control. They ask you to accompany them directly to the station.",
+    "choices": [
+      {
+        "id": "c1",
+        "text": "Tell the DCO you have to run back to the hotel first to grab your dry clothes and you'll come back in an hour.",
+        "isCorrect": false,
+        "yourDecision": "You left the sight of the Doping Control Officer without authorization.",
+        "whatCouldHappen": "Leaving the chaperon's sight or delaying sample collection without a valid documented reason is treated as an Anti-Doping Rule Violation (ADRV) for 'Refusing or Failing to Submit to Sample Collection' (Article 2.3), carrying up to a 4-year ban.",
+        "betterApproach": "Remain within continuous direct visual observation of the DCO or chaperone from the moment of notification until the sample process is complete.",
+        "educationalExplanation": "Athletes have the right to request a brief delay for specific permitted reasons (e.g., medal ceremony, cool-down, urgent medical treatment), but ONLY with the chaperone accompanying them at all times."
+      },
+      {
+        "id": "c2",
+        "text": "Acknowledge the notification, sign the form, keep the chaperone with you, and proceed directly to the Doping Control Station.",
+        "isCorrect": true,
+        "yourDecision": "You followed protocol, kept your athlete representative with you, and provided the sample under standard procedures.",
+        "whatCouldHappen": "You inspect the sealed sample kits, select the vessels yourself, verify the code numbers on the Doping Control Form, and complete a smooth, legitimate clean sport testing process.",
+        "betterApproach": "Know your Athlete Rights & Responsibilities. You have the right to have a representative, request explanations, and note any procedural comments on the form.",
+        "educationalExplanation": "Understanding the sample collection procedure eliminates fear and ensures fair, transparent verification of your hard-earned victories."
+      }
+    ]
+  }
+]

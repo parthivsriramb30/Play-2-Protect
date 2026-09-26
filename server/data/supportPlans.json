@@ -1,0 +1,27 @@
+[
+  {
+    "supportPlanId": "sp-demo-01",
+    "userId": "current-user",
+    "changeGoal": "Learn more and make healthier changes",
+    "professionalId": "prof-01",
+    "professionalName": "Dr. Rajesh K. Sharma (MD Psychiatry)",
+    "appointmentDate": "2026-09-18",
+    "questions": [
+      "What are safe ways to manage sleep disturbances without taking over-the-counter sleep aids?",
+      "How does previous substance use impact athletic recovery and heart rate variability?",
+      "Are there local support groups or counsellors you recommend for student athletes?"
+    ],
+    "personalGoals": [
+      "Improve sleep routine to 8 hours per night",
+      "Attend the scheduled professional consultation"
+    ],
+    "wellnessActivities": [
+      "Daily 1-minute box breathing drill",
+      "Regular whole-food meals",
+      "15-minute gentle walk"
+    ],
+    "status": "In Progress",
+    "createdAt": "2024-05-12T10:00:00Z",
+    "updatedAt": "2024-05-12T10:00:00Z"
+  }
+]

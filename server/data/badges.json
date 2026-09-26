@@ -1,0 +1,114 @@
+[
+  {
+    "id": "badge-01",
+    "name": "First Step",
+    "description": "Completed your first educational lesson on Play2Protect.",
+    "icon": "Award",
+    "category": "Learning",
+    "unlocked": false
+  },
+  {
+    "id": "badge-02",
+    "name": "Knowledge Starter",
+    "description": "Completed 3 full learning modules.",
+    "icon": "BookOpen",
+    "category": "Learning",
+    "unlocked": false
+  },
+  {
+    "id": "badge-03",
+    "name": "Quiz Master",
+    "description": "Achieved a perfect score on an anti-doping quiz.",
+    "icon": "CheckCircle",
+    "category": "Quiz",
+    "unlocked": false
+  },
+  {
+    "id": "badge-04",
+    "name": "Story Explorer",
+    "description": "Completed 3 interactive decision story missions.",
+    "icon": "Compass",
+    "category": "Story",
+    "unlocked": false
+  },
+  {
+    "id": "badge-05",
+    "name": "Puzzle Solver",
+    "description": "Successfully solved 5 anti-doping puzzles.",
+    "icon": "Puzzle",
+    "category": "Puzzle",
+    "unlocked": false
+  },
+  {
+    "id": "badge-06",
+    "name": "Consistent Learner",
+    "description": "Maintained a 7-day meaningful learning streak.",
+    "icon": "Flame",
+    "category": "Streak",
+    "unlocked": false
+  },
+  {
+    "id": "badge-07",
+    "name": "Clean Sport Champion",
+    "description": "Completed all core modules and generated your certificate.",
+    "icon": "ShieldCheck",
+    "category": "Mastery",
+    "unlocked": false
+  },
+  {
+    "id": "badge-08",
+    "name": "Reward Hunter",
+    "description": "Claimed your first partner sports nutrition demo reward.",
+    "icon": "Gift",
+    "category": "Reward",
+    "unlocked": false
+  },
+  {
+    "id": "badge-09",
+    "name": "Label Inspector",
+    "description": "Searched or scanned a supplement label to check ingredients.",
+    "icon": "Search",
+    "category": "Tool",
+    "unlocked": false
+  },
+  {
+    "id": "badge-10",
+    "name": "Fast Thinker",
+    "description": "Aced a 30-Second Quick Recall retention test.",
+    "icon": "Zap",
+    "category": "Recall",
+    "unlocked": false
+  },
+  {
+    "id": "badge-11",
+    "name": "Awareness Explorer",
+    "description": "Watched 5 verified educational and medical awareness videos.",
+    "icon": "Video",
+    "category": "Awareness",
+    "unlocked": false
+  },
+  {
+    "id": "badge-12",
+    "name": "Support Seeker",
+    "description": "Explored qualified professional and clinical support resources.",
+    "icon": "HeartHandshake",
+    "category": "Support",
+    "unlocked": false
+  },
+  {
+    "id": "badge-13",
+    "name": "Healthy Choices",
+    "description": "Completed 5 healthy-choice and grounding activities.",
+    "icon": "Heart",
+    "category": "Wellness",
+    "unlocked": false
+  },
+  {
+    "id": "badge-14",
+    "name": "Knowledge in Action",
+    "description": "Applied clean sport principles and completed personalized support routines.",
+    "icon": "Shield",
+    "category": "Mastery",
+    "unlocked": false
+  }
+]

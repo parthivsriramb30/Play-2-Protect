@@ -1,0 +1,236 @@
+{
+  "safetyDisclaimer": "Stopping or changing some substances suddenly can cause serious, potentially life-threatening withdrawal effects. Do not make major changes to your substance use without speaking with a qualified healthcare professional or addiction medicine physician.",
+  "nutritionDisclaimer": "This is general nutrition information and is not a medical treatment plan for substance use or withdrawal. Individual dietary needs should be evaluated by a qualified healthcare professional or registered dietitian.",
+  "categories": [
+    {
+      "id": "stimulants",
+      "name": "Stimulants",
+      "subtitle": "Includes pre-workout stimulants, amphetamines, cocaine, methylphenidate, DMAA",
+      "generalEffects": "Elevates central nervous system activity, heart rate, blood pressure, alertness, and metabolic output.",
+      "shortTermRisks": [
+        "Acute tachycardia (racing heart) and irregular cardiac rhythms (arrhythmias)",
+        "Severe insomnia, agitation, elevated body temperature (hyperthermia)",
+        "Post-usage crash accompanied by profound mental exhaustion and mood drops"
+      ],
+      "longTermRisks": [
+        "Cardiovascular strain, arterial hypertension, and increased stroke risk",
+        "Dopamine receptor downregulation leading to anhedonia (inability to feel pleasure)",
+        "Psychological dependence and elevated anxiety states"
+      ],
+      "signsHelpNeeded": [
+        "Needing escalating doses to achieve the initial awakening or focus effect",
+        "Chest tightness, shortness of breath, or dizziness during workouts",
+        "Inability to train or function normally without chemical stimulation"
+      ],
+      "antiDopingRelevance": "Classified under WADA S6 (Stimulants). Strictly prohibited In-Competition; certain stimulants (like ephedrine or pseudoephedrine) trigger violations above urinary thresholds.",
+      "professionalSupportGuidance": "Stimulant cessation can result in severe fatigue and depressive episodes. An addiction medicine doctor or sports psychologist can provide safe behavioural and cardiovascular monitoring."
+    },
+    {
+      "id": "steroids",
+      "name": "Steroids",
+      "subtitle": "Includes anabolic androgenic steroids (testosterone, oxandrolone, nandrolone), SARMs, prohormones",
+      "generalEffects": "Mimics male sex hormones (androgens) to artificially stimulate muscle protein synthesis and tissue hypertrophy.",
+      "shortTermRisks": [
+        "Acute hormonal imbalance, acne vulgaris, and severe mood swings ('roid rage')",
+        "Fluid retention, elevated hematocrit (thickened blood), and hypertensive spikes",
+        "Early tendon vulnerability: muscle mass gains outpace tendon collagen adaptation"
+      ],
+      "longTermRisks": [
+        "Complete shutdown of natural hypothalamic-pituitary-gonadal (HPG) axis",
+        "Left ventricular hypertrophy, premature cardiovascular disease, and liver toxicity (oral 17-aa compounds)",
+        "Infertility, testicular atrophy, and permanent endocrine disruption"
+      ],
+      "signsHelpNeeded": [
+        "Experiencing extreme depressive crashes or hormonal fatigue when pausing usage",
+        "Noticeable breast tissue enlargement (gynecomastia) or testicular pain",
+        "Severe blood pressure readings (>140/90 mmHg) at rest"
+      ],
+      "antiDopingRelevance": "Classified under WADA S1 (Anabolic Agents). Strictly prohibited at all times (both in- and out-of-competition). Results in mandatory 4-year competitive bans.",
+      "professionalSupportGuidance": "Never attempt unmonitored post-cycle therapies (PCT) using black-market chemicals. An endocrinologist must evaluate your pituitary recovery and lipid profiles."
+    },
+    {
+      "id": "cannabis",
+      "name": "Cannabis",
+      "subtitle": "Includes marijuana, THC extracts, edibles, synthetic cannabinoids (K2/Spice)",
+      "generalEffects": "Interacts with CB1 and CB2 cannabinoid receptors, modulating sensory perception, motor coordination, and mood.",
+      "shortTermRisks": [
+        "Impaired reaction time, spatial judgment, and psychomotor coordination",
+        "Acute memory impairment and heightened anxiety or paranoia in sensitive individuals",
+        "Elevated resting heart rate and airway irritation if inhaled"
+      ],
+      "longTermRisks": [
+        "Cannabis Use Disorder (CUD) with motivational apathy",
+        "Exacerbation of underlying psychological conditions in developing brains (<25 yrs)",
+        "Cardiovascular strain during heavy concurrent physical exertion"
+      ],
+      "signsHelpNeeded": [
+        "Relying on cannabis daily to sleep, eat, or manage normal emotional stress",
+        "Skipping academic, athletic, or social responsibilities to consume",
+        "Experiencing persistent irritability and sleep disturbance when attempting to abstain"
+      ],
+      "antiDopingRelevance": "Natural and synthetic cannabinoids are prohibited In-Competition under WADA S8 (except cannabidiol / CBD isolate). Urinary threshold for THC is 150 ng/mL.",
+      "professionalSupportGuidance": "Counsellors specializing in Cognitive Behavioral Therapy (CBT) and sleep hygiene can help develop natural relaxation without dependency."
+    },
+    {
+      "id": "opioids",
+      "name": "Opioids",
+      "subtitle": "Includes prescription painkillers (tramadol, codeine, oxycodone, morphine, fentanyl)",
+      "generalEffects": "Binds to mu-opioid receptors in the central nervous system to blunt physical pain and produce sedation.",
+      "shortTermRisks": [
+        "Respiratory depression (slowed breathing), which can rapidly become fatal in excess doses",
+        "Drowsiness, cognitive dulling, nausea, and severe constipation",
+        "Masking critical musculoskeletal injuries, causing athletes to worsen acute tears"
+      ],
+      "longTermRisks": [
+        "Rapid physiological tolerance and profound neurochemical physical dependence",
+        "Hyperalgesia (paradoxical increase in sensitivity to pain over time)",
+        "Life-threatening respiratory arrest and overdose risk"
+      ],
+      "signsHelpNeeded": [
+        "Taking painkillers beyond the prescribed surgical recovery window",
+        "Experiencing intense nausea, chills, shaking, or panic when missing a dose",
+        "Doctor shopping or seeking unprescribed pills online or from teammates"
+      ],
+      "antiDopingRelevance": "Narcotics are prohibited In-Competition under WADA S7. Tramadol is prohibited In-Competition starting 2024 due to high addiction and injury risks.",
+      "professionalSupportGuidance": "CRITICAL: Abrupt opioid cessation causes distressing withdrawal, and unmanaged relapse carries lethal overdose risks. Contact an addiction medicine physician immediately."
+    },
+    {
+      "id": "sedatives",
+      "name": "Sedatives",
+      "subtitle": "Includes benzodiazepines (alprazolam, diazepam), sleep medications (Z-drugs), barbiturates",
+      "generalEffects": "Enhances the inhibitory neurotransmitter GABA, inducing sedation, muscle relaxation, and anxiety reduction.",
+      "shortTermRisks": [
+        "Severe motor incoordination, anterograde amnesia, and slurred speech",
+        "Synergistic lethality when combined with alcohol or pain medications",
+        "Rebound insomnia and acute panic upon rapid wear-off"
+      ],
+      "longTermRisks": [
+        "Rapid physiological dependence within weeks of regular consumption",
+        "Cognitive slowing and blunted emotional processing",
+        "Life-threatening grand mal seizures upon abrupt unmanaged cessation"
+      ],
+      "signsHelpNeeded": [
+        "Inability to sleep without increasing tablet dosages",
+        "Experiencing tremors, sweating, or panic attacks when missing a nightly dose",
+        "Combining sedatives with alcoholic beverages to force sleep"
+      ],
+      "antiDopingRelevance": "Certain sedatives are monitored or restricted, and can impair safety in precision sports (e.g., shooting, archery, motor racing).",
+      "professionalSupportGuidance": "CRITICAL: Never stop benzodiazepines cold turkey. Sudden cessation can cause life-threatening seizures. A physician must supervise any tapering schedule."
+    },
+    {
+      "id": "alcohol",
+      "name": "Alcohol",
+      "subtitle": "Includes beer, spirits, wine, high-proof alcoholic preparations",
+      "generalEffects": "Central nervous system depressant blunting prefrontal cortex inhibition and impairing motor reflexes.",
+      "shortTermRisks": [
+        "Severe dehydration, electrolyte depletion, and inhibited muscle glycogen synthesis",
+        "Impaired heat regulation during workouts and heightened risk of traumatic injuries",
+        "Supressed natural growth hormone release during nighttime recovery"
+      ],
+      "longTermRisks": [
+        "Hepatic steatosis (fatty liver), cirrhosis, and cardiovascular cardiomyopathy",
+        "Increased risk of multiple cancers and gastrointestinal inflammation",
+        "Alcohol Use Disorder with dangerous physiological withdrawal"
+      ],
+      "signsHelpNeeded": [
+        "Morning drinking, memory blackouts, or drinking to steady shaky hands",
+        "Underperforming consistently in sports or academics following weekend binges",
+        "Feeling unable to socialize or decompress without alcohol"
+      ],
+      "antiDopingRelevance": "Alcohol was historically banned in select precision sports and remains subject to individual federation discipline and campus safety codes.",
+      "professionalSupportGuidance": "Chronic heavy alcohol cessation can trigger delirium tremens and seizures. Medical detoxification supervision is essential for heavy daily drinkers."
+    },
+    {
+      "id": "prescription-misuse",
+      "name": "Prescription Medicine Misuse",
+      "subtitle": "Includes ADHD stimulants (Adderall, Ritalin), asthma inhalers in excess, thyroid hormones",
+      "generalEffects": "Using pharmaceutical drugs without personal medical diagnosis, or taking doses exceeding doctor guidelines.",
+      "shortTermRisks": [
+        "Acute hypertensive emergencies and cardiac arrhythmias",
+        "Severe anxiety, tremors, and sleep deprivation",
+        "Severe anti-doping rule violations (ADRVs) if tested"
+      ],
+      "longTermRisks": [
+        "Permanent cardiovascular strain and autonomic dysregulation",
+        "Psychological dependence on medication for routine academic or athletic tasks",
+        "Masking underlying stress, learning differences, or overtraining syndrome"
+      ],
+      "signsHelpNeeded": [
+        "Acquiring prescription medication from peers or unlicensed online sources",
+        "Taking oral salbutamol or doubling inhaler doses instead of training legitimately",
+        "Hiding medication usage from team doctors and parents"
+      ],
+      "antiDopingRelevance": "Prescription medications require an approved Therapeutic Use Exemption (TUE) supported by comprehensive clinical diagnostics prior to competition.",
+      "professionalSupportGuidance": "Consult a sports physician to evaluate genuine medical conditions and establish legitimate, non-prohibited treatment plans."
+    },
+    {
+      "id": "unknown-substances",
+      "name": "Unknown Substances",
+      "subtitle": "Includes unlabelled capsules, proprietary gym blends, internet research chemicals, grey-market powders",
+      "generalEffects": "Unpredictable biological activity due to variable chemical composition, undeclared adulterants, and zero quality standards.",
+      "shortTermRisks": [
+        "Acute toxic reactions, unexplained allergic anaphylaxis, and organ distress",
+        "Sudden loss of consciousness or tachycardia from synthetic analogues",
+        "Immediate adverse analytical findings in anti-doping control"
+      ],
+      "longTermRisks": [
+        "Irreversible renal (kidney) or hepatic (liver) damage from toxic contaminants",
+        "Permanent cardiac remodeling and neurological excitotoxicity",
+        "Extended competitive athletic bans under the Strict Liability code"
+      ],
+      "signsHelpNeeded": [
+        "Experiencing tremors, chest pain, or jaundice (yellowing eyes) after starting a new powder",
+        "Product packaging missing batch lot numbers, third-party seals, or clear manufacturer details",
+        "Seller claims the product is 'for research use only' or 'not for human consumption'"
+      ],
+      "antiDopingRelevance": "Carries the highest statistical rate of anti-doping sanctions for inadvertent ingestion of banned SARMs, stimulants, or aromatase inhibitors.",
+      "professionalSupportGuidance": "Immediately cease consumption of unverified batches and bring packaging to a medical toxicologist if symptoms arise."
+    },
+    {
+      "id": "general-awareness",
+      "name": "General Drug Awareness",
+      "subtitle": "Foundational education on clean athletic integrity, peer resilience, and health preservation",
+      "generalEffects": "Focuses on understanding how substances alter physiology and developing lifelong ethical athletic habits.",
+      "shortTermRisks": [
+        "Falling prey to aggressive commercial marketing or locker-room misinformation",
+        "Underestimating the sensitivity of modern anti-doping mass spectrometry",
+        "Overlooking the principle of Strict Liability"
+      ],
+      "longTermRisks": [
+        "Compromising athletic career eligibility through avoidable mistakes",
+        "Long-term health damage from unmonitored experimentation",
+        "Loss of self-respect, team trust, and clean athletic legacy"
+      ],
+      "signsHelpNeeded": [
+        "Feeling overwhelming pressure from coaches or teammates to take shortcuts",
+        "Experiencing persistent anxiety about athletic performance plateaus",
+        "Uncertainty about the legality of everyday medications"
+      ],
+      "antiDopingRelevance": "The World Anti-Doping Code requires every athlete to understand their rights and responsibilities under international clean sport guidelines.",
+      "professionalSupportGuidance": "Connect with certified sports dietitians, sports medicine physicians, and athlete ombudsmen for guidance."
+    }
+  ],
+  "wellnessChecklist": [
+    { "id": "w1", "text": "Drink adequate water throughout the day (keep urine pale straw-colored)" },
+    { "id": "w2", "text": "Eat regular, balanced whole-food meals with adequate protein" },
+    { "id": "w3", "text": "Prioritize 7 to 9 hours of uninterrupted restorative sleep" },
+    { "id": "w4", "text": "Take a 15-minute gentle walk outdoors in fresh air" },
+    { "id": "w5", "text": "Connect with a supportive friend, family member, or mentor" },
+    { "id": "w6", "text": "Complete one Play2Protect educational module or puzzle" },
+    { "id": "w7", "text": "Avoid high-risk peer environments or unverified supplement offers" }
+  ],
+  "healthyEatingGuide": {
+    "breakfast": "Balanced whole-food start: oatmeal or whole-grain toast, 2 eggs or Greek yogurt/tofu, fresh fruit (banana or berries), and a glass of water.",
+    "lunch": "Steady afternoon fuel: grilled poultry, fish, or lentils/beans, brown rice or quinoa, mixed steamed or raw vegetables, healthy fats (olive oil or avocado).",
+    "snack": "Hydrating energy: a piece of fresh seasonal fruit with a small handful of almonds, or a cup of natural yogurt.",
+    "dinner": "Restorative evening meal: lean protein source, roasted sweet potato or whole grains, generous portion of colorful greens, herbal non-caffeinated tea."
+  },
+  "dailySupportPlan": [
+    { "phase": "Learn", "action": "Watch one verified educational video or complete a short Play2Protect lesson." },
+    { "phase": "Move", "action": "Take a short walk, do light mobility stretching, or practice safe light movement." },
+    { "phase": "Connect", "action": "Reach out to a trusted friend, family member, coach, or supportive peer." },
+    { "phase": "Relax", "action": "Complete a 1-minute calming breathing exercise or sensory grounding challenge." },
+    { "phase": "Learn Again", "action": "Complete a quick Myth vs. Fact or anti-doping puzzle to keep your mind sharp." },
+    { "phase": "Professional Support", "action": "Browse verified counsellors and doctors if you need guidance or clinical advice." }
+  ]
+}

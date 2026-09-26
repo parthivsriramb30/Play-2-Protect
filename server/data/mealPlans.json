@@ -1,0 +1,27 @@
+[
+  {
+    "planId": "mp-demo-01",
+    "userId": "current-user",
+    "age": "21",
+    "dietaryPreference": "Vegetarian",
+    "allergies": ["Peanuts"],
+    "foodsToAvoid": ["Artificial Sweeteners"],
+    "activityLevel": "Moderate",
+    "goal": "General healthy eating",
+    "substanceTopic": "General drug awareness",
+    "days": [
+      {
+        "dayName": "Today",
+        "breakfast": "Warm steel-cut oatmeal with sliced banana, chia seeds, and fortified plant milk or low-fat dairy.",
+        "midMorning": "Crisp green apple slices with sunflower seed butter (peanut-free) and a tall glass of water.",
+        "lunch": "Hearty lentil and vegetable soup with whole-grain toasted bread and a fresh mixed green salad with olive oil dressing.",
+        "eveningSnack": "Greek yogurt or coconut yogurt cup with fresh blueberries and a handful of pumpkin seeds.",
+        "dinner": "Tofu or paneer stir-fry with broccoli, bell peppers, carrots, and steamed brown rice.",
+        "hydration": "Aim for 6-8 regular glasses of water throughout the day (keep urine pale straw-colored).",
+        "wellnessActivity": "Take a 15-minute gentle outdoor walk to refresh your mind and support natural digestion."
+      }
+    ],
+    "createdAt": "2024-05-10T10:00:00Z",
+    "updatedAt": "2024-05-10T10:00:00Z"
+  }
+]

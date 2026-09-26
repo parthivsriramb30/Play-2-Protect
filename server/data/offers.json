@@ -1,0 +1,67 @@
+[
+  {
+    "id": "offer-01",
+    "title": "7-Day Consistent Learner Reward",
+    "description": "You completed 7 days of verified clean sport education! Claim an exclusive partner voucher for batch-tested electrolyte hydration.",
+    "discount": "15% OFF",
+    "code": "P2P7DAY15",
+    "pointsCost": 25,
+    "category": "Hydration & Recovery",
+    "expiry": "2026-12-31",
+    "active": true,
+    "claimed": false,
+    "disclaimer": "Offer availability does not guarantee that a product is free from prohibited substances. Always verify batch certification through Informed Sport or NSF before use."
+  },
+  {
+    "id": "offer-02",
+    "title": "Clean Sport Starter Voucher",
+    "description": "Earned by completing your first 3 learning modules. Valid on certified whole-food sports bars.",
+    "discount": "10% OFF",
+    "code": "P2PSTART10",
+    "pointsCost": 15,
+    "category": "Nutrition",
+    "expiry": "2026-12-31",
+    "active": true,
+    "claimed": false,
+    "disclaimer": "Verify all dietary ingredients against the current WADA Prohibited List. Dietary products are supplementary to whole-food nutrition."
+  },
+  {
+    "id": "offer-03",
+    "title": "Quiz Master Achievement Reward",
+    "description": "Awarded for achieving a 100% score on the Anti-Doping Regulations quiz challenge.",
+    "discount": "20% OFF",
+    "code": "P2PQUIZ20",
+    "pointsCost": 35,
+    "category": "Athletic Gear",
+    "expiry": "2026-12-31",
+    "active": true,
+    "claimed": false,
+    "disclaimer": "Applies to sports apparel and training accessories only. No ingestible substances."
+  },
+  {
+    "id": "offer-04",
+    "title": "Story Explorer Scenario Master Voucher",
+    "description": "Earned by successfully solving 3 ethical dilemma story missions.",
+    "discount": "Free Shipping + Sample Pack",
+    "code": "P2PSTORYFREE",
+    "pointsCost": 40,
+    "category": "Batch-Tested Shakers & Fuel",
+    "expiry": "2026-12-31",
+    "active": true,
+    "claimed": false,
+    "disclaimer": "Sample products are certified by BSCG (Banned Substances Control Group). Verify batch lot number on packaging."
+  },
+  {
+    "id": "offer-05",
+    "title": "Clean Sport Champion Capstone Gift",
+    "description": "Earned upon completing the full Play2Protect educational program and generating your certificate.",
+    "discount": "25% OFF",
+    "code": "P2PCHAMP25",
+    "pointsCost": 50,
+    "category": "Sports Integrity Partner Bundle",
+    "expiry": "2026-12-31",
+    "active": true,
+    "claimed": false,
+    "disclaimer": "Congratulations on clean athletic literacy! Always practice Strict Liability throughout your competitive career."
+  }
+]

@@ -1,0 +1,153 @@
+rules_version = '2';
+service cloud.firestore {
+  match /databases/{database}/documents {
+    
+    // Helper functions
+    function isAuthenticated() {
+      return request.auth != null;
+    }
+    
+    function isOwner(userId) {
+      return isAuthenticated() && request.auth.uid == userId;
+    }
+    
+    function isAdmin() {
+      return isAuthenticated() && 
+        (request.auth.token.admin == true || 
+         request.auth.token.email.matches('.*admin.*'));
+    }
+
+    // Public educational content (modules, quizzes, missions, puzzles, badges, offers, videos, professionals)
+    match /modules/{document=**} {
+      allow read: if true;
+      allow write: if isAdmin();
+    }
+
+    match /quizzes/{document=**} {
+      allow read: if true;
+      allow write: if isAdmin();
+    }
+
+    match /missions/{document=**} {
+      allow read: if true;
+      allow write: if isAdmin();
+    }
+
+    match /puzzles/{document=**} {
+      allow read: if true;
+      allow write: if isAdmin();
+    }
+
+    match /badges/{document=**} {
+      allow read: if true;
+      allow write: if isAdmin();
+    }
+
+    match /offers/{document=**} {
+      allow read: if true;
+      allow write: if isAdmin();
+    }
+
+    match /medicineDatabase/{document=**} {
+      allow read: if true;
+      allow write: if isAdmin();
+    }
+
+    // Expert Videos & Verified Media
+    match /expertVideos/{document=**} {
+      allow read: if true;
+      allow write: if isAdmin();
+    }
+
+    // Professional Directory & Upcoming Sessions
+    match /professionals/{document=**} {
+      allow read: if true;
+      allow write: if isAdmin();
+    }
+
+    match /counsellingSessions/{document=**} {
+      allow read: if true;
+      allow write: if isAdmin();
+    }
+
+    match /supportActivities/{document=**} {
+      allow read: if true;
+      allow write: if isAdmin();
+    }
+
+    match /supportResources/{document=**} {
+      allow read: if true;
+      allow write: if isAdmin();
+    }
+
+    // Public Leaderboard (Only safe fields: rank, displayName, xp, level, badge)
+    match /leaderboard/{document=**} {
+      allow read: if true;
+      allow write: if isAuthenticated();
+    }
+
+    // Private User Profile
+    match /users/{userId} {
+      allow read: if isOwner(userId) || isAdmin();
+      allow create: if isAuthenticated();
+      allow update: if isOwner(userId) || isAdmin();
+      allow delete: if isAdmin();
+    }
+
+    // Private User Progress & XP
+    match /progress/{userId} {
+      allow read: if isOwner(userId) || isAdmin();
+      allow write: if isOwner(userId) || isAdmin();
+    }
+
+    // Private User Support & Wellness Profiles (Strictly Confidential)
+    match /userSupportProfiles/{userId} {
+      allow read, write: if isOwner(userId) || isAdmin();
+      allow create: if isAuthenticated();
+    }
+
+    // Private Meal Plans (Strictly Confidential)
+    match /mealPlans/{planId} {
+      allow read, write: if isAuthenticated() && resource.data.userId == request.auth.uid;
+      allow create: if isAuthenticated();
+    }
+
+    // Private Step-by-Step Support Plans & Appointment Notes (Strictly Confidential)
+    match /supportPlans/{supportPlanId} {
+      allow read, write: if isAuthenticated() && resource.data.userId == request.auth.uid;
+      allow create: if isAuthenticated();
+    }
+
+    // Private Non-Medical Support Goals (Strictly Confidential)
+    match /supportGoals/{goalId} {
+      allow read, write: if isAuthenticated() && resource.data.userId == request.auth.uid;
+      allow create: if isAuthenticated();
+    }
+
+    // Private Certificates
+    match /certificates/{certificateId} {
+      allow read: if isAuthenticated();
+      allow create: if isAuthenticated();
+      allow update, delete: if isAdmin();
+    }
+
+    // Chatbot Sessions (educational chats)
+    match /chatSessions/{sessionId} {
+      allow read, write: if isAuthenticated() && resource.data.userId == request.auth.uid;
+      allow create: if isAuthenticated();
+    }
+
+    // Reward Claims
+    match /rewardClaims/{claimId} {
+      allow read: if isAuthenticated() && resource.data.userId == request.auth.uid;
+      allow create: if isAuthenticated();
+      allow update, delete: if isAdmin();
+    }
+
+    // Daily Activity Logs
+    match /dailyActivity/{activityId} {
+      allow read, write: if isAuthenticated() && resource.data.userId == request.auth.uid;
+      allow create: if isAuthenticated();
+    }
+  }
+}

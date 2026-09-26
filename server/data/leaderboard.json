@@ -1,0 +1,82 @@
+[
+  {
+    "rank": 1,
+    "displayName": "Rohan M. (Sprinter)",
+    "xp": 940,
+    "level": 5,
+    "badge": "Clean Sport Champion",
+    "streak": 14
+  },
+  {
+    "rank": 2,
+    "displayName": "Ananya S. (Badminton)",
+    "xp": 820,
+    "level": 5,
+    "badge": "Quiz Master",
+    "streak": 9
+  },
+  {
+    "rank": 3,
+    "displayName": "Vikram K. (Powerlifter)",
+    "xp": 680,
+    "level": 4,
+    "badge": "Consistent Learner",
+    "streak": 7
+  },
+  {
+    "rank": 4,
+    "displayName": "Priya D. (Swimmer)",
+    "xp": 540,
+    "level": 4,
+    "badge": "Story Explorer",
+    "streak": 5
+  },
+  {
+    "rank": 5,
+    "displayName": "Arjun R. (Footballer)",
+    "xp": 490,
+    "level": 3,
+    "badge": "Puzzle Solver",
+    "streak": 4
+  },
+  {
+    "rank": 6,
+    "displayName": "Sneha P. (Gym User)",
+    "xp": 360,
+    "level": 3,
+    "badge": "Knowledge Starter",
+    "streak": 3
+  },
+  {
+    "rank": 7,
+    "displayName": "Tariq H. (Student Athlete)",
+    "xp": 280,
+    "level": 3,
+    "badge": "Label Inspector",
+    "streak": 3
+  },
+  {
+    "rank": 8,
+    "displayName": "Meera N. (Track & Field)",
+    "xp": 210,
+    "level": 2,
+    "badge": "First Step",
+    "streak": 2
+  },
+  {
+    "rank": 9,
+    "displayName": "Kabir G. (Coach)",
+    "xp": 170,
+    "level": 2,
+    "badge": "First Step",
+    "streak": 1
+  },
+  {
+    "rank": 10,
+    "displayName": "Divya T. (Sports Enthusiast)",
+    "xp": 120,
+    "level": 2,
+    "badge": "First Step",
+    "streak": 1
+  }
+]

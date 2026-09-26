@@ -1,0 +1,18 @@
+{
+  "name": "play2protect",
+  "version": "1.0.0",
+  "description": "PLAY2PROTECT - Anti-Doping, Drug-Risk & Supplement Awareness Platform",
+  "scripts": {
+    "install:all": "npm install && cd server && npm install && cd ../client && npm install",
+    "dev:server": "cd server && npm run dev",
+    "dev:client": "cd client && npm run dev",
+    "dev": "concurrently -n \"SERVER,CLIENT\" -c \"blue,green\" \"npm run dev:server\" \"npm run dev:client\"",
+    "build": "cd client && npm run build"
+  },
+  "keywords": ["anti-doping", "wada", "sports-education", "supplements", "react", "node"],
+  "author": "Play2Protect Team",
+  "license": "MIT",
+  "devDependencies": {
+    "concurrently": "^9.1.2"
+  }
+}

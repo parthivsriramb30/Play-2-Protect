@@ -1,0 +1,42 @@
+@import "tailwindcss";
+
+:root {
+  --navy: #0f2942;
+  --navy-dark: #0a1b2c;
+  --navy-light: #183d63;
+  --offwhite: #f8fafc;
+  --turf-green: #15803d;
+  --highlight-orange: #ea580c;
+  --court-line: rgba(15, 41, 66, 0.06);
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  background-color: #f8fafc;
+  color: #1e293b;
+  min-height: 100vh;
+  -webkit-font-smoothing: antialiased;
+}
+
+/* Subtle sports field / running track texture */
+.sports-bg-subtle {
+  background-image: 
+    linear-gradient(to right, rgba(15, 41, 66, 0.03) 1px, transparent 1px),
+    linear-gradient(to bottom, rgba(15, 41, 66, 0.03) 1px, transparent 1px);
+  background-size: 32px 32px;
+}
+
+/* Track curve accent */
+.track-curve-subtle {
+  background-image: radial-gradient(circle at 100% 0%, rgba(15, 41, 66, 0.04) 15%, transparent 20%),
+                    radial-gradient(circle at 100% 0%, rgba(15, 41, 66, 0.03) 30%, transparent 35%),
+                    radial-gradient(circle at 100% 0%, rgba(15, 41, 66, 0.02) 45%, transparent 50%);
+}
+
+/* Accessible focus outline */
+button:focus-visible, a:focus-visible, input:focus-visible, select:focus-visible, textarea:focus-visible {
+  outline: 2px solid #0284c7;
+  outline-offset: 2px;
+}

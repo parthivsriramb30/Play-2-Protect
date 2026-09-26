@@ -1,0 +1,34 @@
+[
+  {
+    "goalId": "goal-01",
+    "userId": "current-user",
+    "title": "Learn more about health risks of my substance topic",
+    "completed": true,
+    "createdAt": "2024-05-10T09:00:00Z",
+    "completedAt": "2024-05-10T11:00:00Z"
+  },
+  {
+    "goalId": "goal-02",
+    "userId": "current-user",
+    "title": "Speak to a doctor or qualified counsellor",
+    "completed": false,
+    "createdAt": "2024-05-10T09:00:00Z",
+    "completedAt": null
+  },
+  {
+    "goalId": "goal-03",
+    "userId": "current-user",
+    "title": "Improve my daily sleep routine (7-9 hours)",
+    "completed": false,
+    "createdAt": "2024-05-11T08:00:00Z",
+    "completedAt": null
+  },
+  {
+    "goalId": "goal-04",
+    "userId": "current-user",
+    "title": "Build a supportive, clean athletic network",
+    "completed": false,
+    "createdAt": "2024-05-11T08:00:00Z",
+    "completedAt": null
+  }
+]

@@ -1,0 +1,112 @@
+[
+  {
+    "id": "mod-01",
+    "title": "Anti-Doping Fundamentals & Clean Sport",
+    "description": "Understand the core principles of fair play, the role of WADA/NADA, and the fundamental rule of Strict Liability that every athlete and fitness enthusiast must know.",
+    "duration": "8 min",
+    "xpReward": 25,
+    "category": "Fundamentals",
+    "sections": [
+      {
+        "title": "The Principle of Strict Liability",
+        "content": "In sports anti-doping, 'Strict Liability' is the cornerstone rule: an athlete is solely and completely responsible for any substance found in their body specimen, regardless of how it got there. Ignorance, bad coaching advice, or unintentional label errors do not excuse a positive test. If it is in your body, you are responsible."
+      },
+      {
+        "title": "What Defines Doping?",
+        "content": "Under the World Anti-Doping Code, doping is defined by the occurrence of one or more Anti-Doping Rule Violations (ADRVs). While having a prohibited substance in your sample is the most common violation, refusing a test, tampering with doping control, whereabouts failures, and trafficking are also severe violations."
+      },
+      {
+        "title": "The Three Criteria for Banning a Substance",
+        "content": "To be placed on the WADA Prohibited List, a substance or method must meet at least two of the three criteria:\n1. It has the potential to enhance or enhances sport performance.\n2. It represents an actual or potential health risk to the athlete.\n3. It violates the 'Spirit of Sport' (ethics, fair play, honesty, and health)."
+      }
+    ]
+  },
+  {
+    "id": "mod-02",
+    "title": "Supplement Risks & The Contamination Trap",
+    "description": "Discover why 'all-natural' claims can be misleading, how dietary supplements get contaminated during manufacturing, and how to verify products with third-party testing.",
+    "duration": "10 min",
+    "xpReward": 25,
+    "category": "Supplements",
+    "sections": [
+      {
+        "title": "The Dietary Supplement Reality",
+        "content": "Unlike pharmaceutical drugs that require stringent clinical trials and government approval before hitting shelves, dietary supplements in many countries are regulated as food products. Manufacturers are not required to prove efficacy or safety prior to marketing, leaving room for deceptive labeling."
+      },
+      {
+        "title": "Cross-Contamination & Undeclared Ingredients",
+        "content": "Studies by independent testing labs have repeatedly shown that up to 15-20% of random workout and weight-loss supplements contain unlisted prohibited substances—including anabolic steroids, SARMs, and designer amphetamines—due to shared factory equipment or deliberate 'spiking' to make the product feel more potent."
+      },
+      {
+        "title": "Third-Party Certification: The Safer Path",
+        "content": "If you choose to use supplements, look for independent third-party batch-testing seals: Informed Sport (LGC), NSF Certified for Sport, or BSCG (Banned Substances Control Group). These organizations test specific batches down to parts-per-billion for prohibited substances."
+      }
+    ]
+  },
+  {
+    "id": "mod-03",
+    "title": "The Prohibited List & Therapeutic Use Exemptions (TUE)",
+    "description": "Learn how the WADA Prohibited List is updated annually, the difference between in-competition and out-of-competition bans, and how legitimate medical needs are accommodated.",
+    "duration": "10 min",
+    "xpReward": 25,
+    "category": "Regulations",
+    "sections": [
+      {
+        "title": "In-Competition vs Out-of-Competition",
+        "content": "Some substances are prohibited at all times (both in training and during events) because they provide long-lasting adaptations—such as Anabolic Steroids (S1), Peptide Hormones (S2), and Hormone Modulators (S4). Other substances, like Stimulants (S6), Narcotics (S7), and Cannabinoids (S8), are only prohibited during the in-competition period (normally starting at 11:59 PM on the day before an event)."
+      },
+      {
+        "title": "What is a Therapeutic Use Exemption (TUE)?",
+        "content": "Athletes, like anyone else, can experience genuine illnesses or chronic medical conditions (like Type 1 diabetes, severe asthma, or ADHD) requiring prescribed medications. A TUE allows an athlete to use a necessary prohibited medication without committing an anti-doping violation, provided rigorous medical documentation is evaluated and approved beforehand."
+      },
+      {
+        "title": "The TUE Approval Criteria",
+        "content": "Four conditions must be met: 1) The athlete would experience significant health impairment without the substance; 2) The therapeutic use will not produce significant performance enhancement beyond returning to normal health; 3) No reasonable permitted alternative exists; and 4) The necessity is not a consequence of prior non-medical substance abuse."
+      }
+    ]
+  },
+  {
+    "id": "mod-04",
+    "title": "Over-the-Counter Medicines & Everyday Risks",
+    "description": "Why common cold tablets, cough syrups, skin preparations, and eye drops can cause accidental doping violations, and how to verify ingredients before taking them.",
+    "duration": "7 min",
+    "xpReward": 25,
+    "category": "Medications",
+    "sections": [
+      {
+        "title": "The Sneaky Decongestant: Pseudoephedrine",
+        "content": "Common cold and sinus medications frequently contain pseudoephedrine or ephedrine. While great for opening blocked nasal passages, pseudoephedrine is a prohibited stimulant in-competition above urinary concentrations of 150 µg/mL. Always switch to permitted single-ingredient options like saline sprays or phenylephrine ahead of race day."
+      },
+      {
+        "title": "Asthma Sprays & Route of Administration",
+        "content": "The route of administration matters enormously. For example, inhaled salbutamol is permitted within therapeutic limits, but oral salbutamol tablets or syrups are strictly prohibited at all times. Always check the exact delivery method."
+      },
+      {
+        "title": "Brand Name Confusion Across Borders",
+        "content": "A brand name like 'Vicks' or 'Advil' can have completely different active ingredients depending on the country you purchase it in. Never rely on the front label brand—always turn the box around and read the active pharmaceutical ingredient (API) name."
+      }
+    ]
+  },
+  {
+    "id": "mod-05",
+    "title": "Clean Choices, Pressure & True Sportsmanship",
+    "description": "Navigate locker room peer pressure, unrealistic social media aesthetics, recovery shortcuts, and develop mental resilience for a lifetime of clean athletic performance.",
+    "duration": "9 min",
+    "xpReward": 25,
+    "category": "Ethics & Health",
+    "sections": [
+      {
+        "title": "Social Media vs Biological Reality",
+        "content": "Social media feeds are saturated with heavily filtered, genetically rare, or chemically enhanced physiques presented as 'natural results from 3 months of hard work'. Comparing your natural progress to deceptive online standards is the leading psychological trigger for dangerous substance experimentation."
+      },
+      {
+        "title": "Mastering the Fundamentals First",
+        "content": "Before considering pills or powders, 95% of performance gains come from four non-negotiables: 1) Consistent 7-9 hours of quality sleep; 2) Adequate balanced whole-food protein and complex carbs; 3) Proper hydration; and 4) Progressive resistance training with scheduled deloads."
+      },
+      {
+        "title": "Standing Your Ground in the Gym",
+        "content": "When someone offers you an 'exclusive gains booster' or unlabelled capsule in the gym, remember: clean sport is not just about passing a test; it is about protecting your cardiovascular health, your hormonal balance, and your self-respect for decades to come."
+      }
+    ]
+  }
+]

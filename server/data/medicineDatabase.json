@@ -1,0 +1,167 @@
+[
+  {
+    "id": "sub-01",
+    "name": "Whey Protein Isolate",
+    "category": "Dietary Supplement",
+    "status": "INFORMATION AVAILABLE",
+    "statusLevel": "green",
+    "ingredients": ["Whey Protein Isolate", "Natural Vanilla Flavor", "Sunflower Lecithin", "Stevia Leaf Extract"],
+    "antiDopingRelevance": "Whey protein itself is not on the WADA Prohibited List. It is a common dietary dairy protein source. However, dietary supplements may be subject to cross-contamination if manufactured in facilities that process prohibited substances (such as anabolic agents or stimulants).",
+    "warnings": "Look for third-party batch testing certifications such as Informed Sport, NSF Certified for Sport, or BSCG to minimize inadvertent doping risks. Never assume unverified imported brands are pure.",
+    "source": "WADA 2024 Dietary Supplement Guidelines & USADA Athlete Advisory"
+  },
+  {
+    "id": "sub-02",
+    "name": "Creatine Monohydrate",
+    "category": "Dietary Supplement",
+    "status": "INFORMATION AVAILABLE",
+    "statusLevel": "green",
+    "ingredients": ["Creatine Monohydrate (Creapure)"],
+    "antiDopingRelevance": "Creatine is not prohibited by WADA, NADA, or any international sporting body. It is an amino acid derivative naturally synthesized in the human body and found in red meat and seafood.",
+    "warnings": "Ensure pure single-ingredient formulations without proprietary 'pre-workout matrix' blends that might contain unlisted stimulants like octodrine or methylhexanamine.",
+    "source": "WADA Prohibited List 2024 / International Olympic Committee Consensus Statement"
+  },
+  {
+    "id": "sub-03",
+    "name": "NitroX Extreme Pre-Workout (DMAA Blend)",
+    "category": "High-Risk Workout Supplement",
+    "status": "POTENTIAL PROHIBITED-SUBSTANCE MATCH",
+    "statusLevel": "red",
+    "ingredients": ["Beta-Alanine", "Caffeine Anhydrous", "1,3-Dimethylamylamine (DMAA / Geranamine)", "Synephrine", "Yohimbine HCl"],
+    "antiDopingRelevance": "Contains 1,3-Dimethylamylamine (DMAA), which is explicitly listed on the WADA Prohibited List under Section S6: Stimulants (Specified Stimulants). Prohibited In-Competition.",
+    "warnings": "Using this product will cause an Adverse Analytical Finding (positive drug test) and carries severe cardiovascular health risks including elevated blood pressure, tachycardia, and arrhythmias.",
+    "source": "WADA Prohibited List 2024 Section S6 & FDA Warning Letters on DMAA"
+  },
+  {
+    "id": "sub-04",
+    "name": "Sudafed Decongestant (Pseudoephedrine)",
+    "category": "Over-The-Counter Medicine",
+    "status": "REQUIRES VERIFICATION",
+    "statusLevel": "yellow",
+    "ingredients": ["Pseudoephedrine Hydrochloride (60mg)", "Microcrystalline Cellulose", "Magnesium Stearate"],
+    "antiDopingRelevance": "Pseudoephedrine is prohibited In-Competition when its concentration in urine is greater than 150 micrograms per milliliter. Taking therapeutic doses within 24 hours prior to competition can exceed this threshold.",
+    "warnings": "Athletes should stop taking therapeutic pseudoephedrine at least 24 hours before competition or consult their sports doctor for non-prohibited alternatives like phenylephrine or saline rinses.",
+    "source": "WADA Prohibited List 2024 Section S6.b (Pseudoephedrine Threshold Rules)"
+  },
+  {
+    "id": "sub-05",
+    "name": "Asthalin Inhaler (Salbutamol)",
+    "category": "Prescription Asthma Medicine",
+    "status": "REQUIRES VERIFICATION",
+    "statusLevel": "yellow",
+    "ingredients": ["Salbutamol Sulfate (100 mcg per actuation)"],
+    "antiDopingRelevance": "Inhaled salbutamol is permitted up to a maximum of 1600 micrograms over 24 hours in divided doses not to exceed 600 micrograms over 8 hours. Doses exceeding this require a Therapeutic Use Exemption (TUE). Oral salbutamol is strictly prohibited at all times.",
+    "warnings": "Never exceed prescribed inhalation doses. Keep medical records and pulmonary function tests updated in case a TUE retroactive filing or documentation is requested.",
+    "source": "WADA Prohibited List 2024 Section S3 (Beta-2 Agonists)"
+  },
+  {
+    "id": "sub-06",
+    "name": "Anavar (Oxandrolone)",
+    "category": "Anabolic Steroid",
+    "status": "POTENTIAL PROHIBITED-SUBSTANCE MATCH",
+    "statusLevel": "red",
+    "ingredients": ["Oxandrolone (10mg)"],
+    "antiDopingRelevance": "Oxandrolone is an anabolic androgenic steroid classified under Section S1.1.A of the WADA Prohibited List. It is strictly prohibited at all times (both In-Competition and Out-of-Competition).",
+    "warnings": "Carries severe penalties (up to 4-year ban for a first-time intentional anti-doping rule violation). Known to cause liver toxicity, endocrine suppression, cardiovascular strain, and psychological alterations.",
+    "source": "WADA Prohibited List 2024 Section S1 (Anabolic Agents)"
+  },
+  {
+    "id": "sub-07",
+    "name": "Ostarine (MK-2866 / Enobosarm)",
+    "category": "Selective Androgen Receptor Modulator (SARM)",
+    "status": "POTENTIAL PROHIBITED-SUBSTANCE MATCH",
+    "statusLevel": "red",
+    "ingredients": ["Enobosarm (Ostarine / MK-2866)"],
+    "antiDopingRelevance": "Classified under Section S1.2 (Other Anabolic Agents - SARMs). Strictly prohibited at all times (In- and Out-of-Competition). Frequently found as an undeclared adulterant in online fitness supplements.",
+    "warnings": "Not approved for human consumption by the FDA/EMA. Linked to acute liver injury, tendon rupture risk, and long-term hormonal disruption. Results in immediate anti-doping sanctions.",
+    "source": "WADA Prohibited List 2024 Section S1.2 & Global DRO Advisory"
+  },
+  {
+    "id": "sub-08",
+    "name": "Modafinil (Provigil)",
+    "category": "Prescription Stimulant / Wakefulness Agent",
+    "status": "POTENTIAL PROHIBITED-SUBSTANCE MATCH",
+    "statusLevel": "red",
+    "ingredients": ["Modafinil (100mg)", "Lactose Monohydrate", "Pregelatinized Starch"],
+    "antiDopingRelevance": "Classified under Section S6.a: Non-Specified Stimulants. Prohibited In-Competition. Often abused as a 'smart drug' or fatigue-masking agent in endurance and shooting sports.",
+    "warnings": "Requires a valid Therapeutic Use Exemption (TUE) for diagnosed narcolepsy. Misuse without medical approval triggers serious anti-doping violations and cardiac strain.",
+    "source": "WADA Prohibited List 2024 Section S6.a"
+  },
+  {
+    "id": "sub-09",
+    "name": "Ashwagandha KSM-66 Extract",
+    "category": "Herbal / Botanical Supplement",
+    "status": "REQUIRES VERIFICATION",
+    "statusLevel": "yellow",
+    "ingredients": ["Withania Somnifera Root Extract (5% Withanolides)", "Vegetable Cellulose Capsule"],
+    "antiDopingRelevance": "Ashwagandha itself is an herbal adaptogen and is NOT prohibited by WADA. However, unregulated herbal preparations from untrusted manufacturers may contain unlisted hormonal precursors or pharmaceutical adulterants.",
+    "warnings": "Ensure the brand provides verifiable certificate of analysis (CoA) from accredited anti-doping testing laboratories (e.g., LGC / Informed Sport).",
+    "source": "Australian Sports Anti-Doping Authority (Sport Integrity Australia) Supplement Guide"
+  },
+  {
+    "id": "sub-10",
+    "name": "Vitamin D3 + K2 Complex",
+    "category": "Vitamin Supplement",
+    "status": "INFORMATION AVAILABLE",
+    "statusLevel": "green",
+    "ingredients": ["Cholecalciferol (Vitamin D3 2000 IU)", "Menaquinone-7 (Vitamin K2 100 mcg)", "MCT Coconut Oil"],
+    "antiDopingRelevance": "Vitamins and minerals are not prohibited under WADA regulations when taken orally. Intravenous infusions or injections exceeding 100 mL per 12-hour period are prohibited under Section M2.",
+    "warnings": "Stick to oral capsules or drops from certified manufacturers. Avoid multi-ingredient formulas containing proprietary herbal complexes.",
+    "source": "WADA Prohibited List 2024 & NADA India Medical Advisory"
+  },
+  {
+    "id": "sub-11",
+    "name": "Clenbuterol Hydrochloride (Spiropent)",
+    "category": "Beta-2 Agonist / Anabolic Agent",
+    "status": "POTENTIAL PROHIBITED-SUBSTANCE MATCH",
+    "statusLevel": "red",
+    "ingredients": ["Clenbuterol Hydrochloride (0.02mg)"],
+    "antiDopingRelevance": "Prohibited at all times under Section S1.2: Other Anabolic Agents. Clenbuterol has strong anabolic and lipolytic properties and is never permitted for athletes without exceptional veterinary/clinical circumstances.",
+    "warnings": "Causes tremors, cardiac arrhythmias, hypokalemia, and permanent ban from competitive athletics. Note: Meat contamination can occasionally occur in specific regions (e.g., certain farming practices), but athletes are strictly liable.",
+    "source": "WADA Prohibited List 2024 Section S1.2"
+  },
+  {
+    "id": "sub-12",
+    "name": "Paracetamol / Acetaminophen (Crocin / Tylenol)",
+    "category": "Over-The-Counter Pain Relief",
+    "status": "INFORMATION AVAILABLE",
+    "statusLevel": "green",
+    "ingredients": ["Paracetamol (500mg)", "Povidone", "Starch"],
+    "antiDopingRelevance": "Paracetamol is an analgesic and antipyretic. It is NOT prohibited on the WADA Prohibited List either in or out of competition.",
+    "warnings": "Do not exceed maximum daily dosage (4000mg/day for adults) to prevent acute hepatotoxicity. Avoid combination cold/flu products containing pseudoephedrine or codeine before competition.",
+    "source": "WADA Prohibited List 2024 & National Anti-Doping Agency"
+  },
+  {
+    "id": "sub-13",
+    "name": "Otrivin Nasal Spray (Xylometazoline)",
+    "category": "Over-The-Counter Nasal Spray",
+    "status": "INFORMATION AVAILABLE",
+    "statusLevel": "green",
+    "ingredients": ["Xylometazoline Hydrochloride 0.1% w/v", "Benzalkonium Chloride", "Purified Water"],
+    "antiDopingRelevance": "Topical nasal xylometazoline is NOT prohibited on the WADA Prohibited List. It acts locally as a vasoconstrictor to relieve nasal congestion.",
+    "warnings": "Limit usage to 3-5 consecutive days to prevent rebound rhinitis (rhinitis medicamentosa). Always verify that the spray does not contain prohibited ephedrine derivatives.",
+    "source": "Global DRO (Drug Information Database) / WADA List"
+  },
+  {
+    "id": "sub-14",
+    "name": "Monster / Red Bull Energy Blend (Taurine & Caffeine)",
+    "category": "Energy Drink",
+    "status": "REQUIRES VERIFICATION",
+    "statusLevel": "yellow",
+    "ingredients": ["Carbonated Water", "Sucrose", "Glucose", "Taurine", "Caffeine (32mg/100ml)", "B-Vitamins"],
+    "antiDopingRelevance": "Caffeine was removed from the WADA Prohibited List in 2004 and is currently on the WADA Monitoring Program (to observe patterns of misuse). It is permitted, but some energy drinks include unlisted plant stimulants (e.g., Citrus aurantium / bitter orange / synephrine).",
+    "warnings": "Extreme caffeine consumption can lead to dehydration, anxiety, cardiac palpitations, and may interfere with sleep and recovery.",
+    "source": "WADA 2024 Monitoring Program"
+  },
+  {
+    "id": "sub-15",
+    "name": "Erythropoietin (EPO / Epogen)",
+    "category": "Peptide Hormone / Blood Booster",
+    "status": "POTENTIAL PROHIBITED-SUBSTANCE MATCH",
+    "statusLevel": "red",
+    "ingredients": ["Epoetin Alfa"],
+    "antiDopingRelevance": "Classified under Section S2: Peptide Hormones, Growth Factors, Related Substances and Mimetics. Strictly prohibited at all times (In- and Out-of-Competition). Stimulates red blood cell production.",
+    "warnings": "Dramatically increases blood viscosity, multiplying the risk of fatal pulmonary embolisms, strokes, and heart attacks during sleep and exercise.",
+    "source": "WADA Prohibited List 2024 Section S2"
+  }
+]

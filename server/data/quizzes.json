@@ -1,0 +1,282 @@
+[
+  {
+    "id": "q-01",
+    "question": "What is the core principle of 'Strict Liability' in anti-doping regulations?",
+    "options": [
+      "The athlete is only responsible if intentional cheating can be proven in court",
+      "The athlete is solely responsible for any prohibited substance found in their sample",
+      "The coach and team doctor bear primary legal liability for positive tests",
+      "Liability only applies if the substance provided a measurable performance gain"
+    ],
+    "correctIndex": 1,
+    "explanation": "Strict Liability means an athlete is fully accountable for any substance detected in their sample, whether ingested intentionally, accidentally, or through contaminated food or supplements.",
+    "topic": "Fundamentals",
+    "xp": 20
+  },
+  {
+    "id": "q-02",
+    "question": "What does the abbreviation 'TUE' stand for in sports integrity?",
+    "options": [
+      "Total Urine Evaluation",
+      "Therapeutic Use Exemption",
+      "Timed Urgent Examination",
+      "Targeted Universal Enforcement"
+    ],
+    "correctIndex": 1,
+    "explanation": "A Therapeutic Use Exemption (TUE) allows an athlete with an approved medical condition to use an otherwise prohibited medication under strict medical supervision.",
+    "topic": "Regulations",
+    "xp": 20
+  },
+  {
+    "id": "q-03",
+    "question": "Why are dietary supplements considered high-risk for competitive athletes?",
+    "options": [
+      "They are always illegal to purchase in pharmacies",
+      "They lack mandatory pre-market approval and can contain undeclared prohibited ingredients",
+      "All dietary vitamins are banned under the WADA Code",
+      "They degrade protein synthesis in healthy muscles"
+    ],
+    "correctIndex": 1,
+    "explanation": "Dietary supplements are regulated more like foods than pharmaceutical drugs in many countries, creating risks of cross-contamination or hidden designer stimulants.",
+    "topic": "Supplements",
+    "xp": 20
+  },
+  {
+    "id": "q-04",
+    "question": "Which of the following cold medication ingredients is prohibited in-competition above a specific urinary threshold?",
+    "options": [
+      "Paracetamol / Acetaminophen",
+      "Pseudoephedrine",
+      "Vitamin C (Ascorbic Acid)",
+      "Saline nasal rinse"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pseudoephedrine is prohibited In-Competition when urinary concentration exceeds 150 µg/mL. Athletes are advised to stop taking it 24 hours prior to competition.",
+    "topic": "Medications",
+    "xp": 20
+  },
+  {
+    "id": "q-05",
+    "question": "Which independent certification logo indicates rigorous third-party batch testing for banned substances?",
+    "options": [
+      "Informed Sport / NSF Certified for Sport",
+      "100% Herbal Guaranteed",
+      "Doctor Recommended Online",
+      "Fast Gains Laboratory Tested"
+    ],
+    "correctIndex": 0,
+    "explanation": "Informed Sport, BSCG, and NSF Certified for Sport test specific manufacturing batches for substances on the WADA Prohibited List.",
+    "topic": "Supplements",
+    "xp": 20
+  },
+  {
+    "id": "q-06",
+    "question": "What is the status of pure Creatine Monohydrate on the WADA Prohibited List?",
+    "options": [
+      "Prohibited at all times",
+      "Prohibited only in-competition",
+      "Not prohibited (permitted)",
+      "Prohibited only for athletes under 18"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pure creatine monohydrate is NOT prohibited by WADA or national anti-doping organizations. However, athletes should ensure it is tested for cross-contamination.",
+    "topic": "Supplements",
+    "xp": 20
+  },
+  {
+    "id": "q-07",
+    "question": "Which class of substances on the WADA List is prohibited at ALL TIMES (both in and out of competition)?",
+    "options": [
+      "Anabolic Androgenic Steroids (S1)",
+      "Cannabinoids (S8)",
+      "Narcotics (S7)",
+      "Alcohol"
+    ],
+    "correctIndex": 0,
+    "explanation": "Anabolic agents (S1), Peptide hormones (S2), Beta-2 agonists (S3, with specific inhaled limits), and Hormone modulators (S4) are prohibited at all times.",
+    "topic": "Regulations",
+    "xp": 20
+  },
+  {
+    "id": "q-08",
+    "question": "How long does a standard in-competition period typically begin under WADA rules?",
+    "options": [
+      "At 11:59 PM on the day before a competition through the end of the sample collection",
+      "Exactly 30 days before the competition date",
+      "Only when the whistle blows to start the event",
+      "One week before the athletes travel"
+    ],
+    "correctIndex": 0,
+    "explanation": "Unless approved otherwise for a specific sport, the In-Competition period begins at 11:59 p.m. on the day before a competition in which the athlete is scheduled to participate.",
+    "topic": "Regulations",
+    "xp": 20
+  },
+  {
+    "id": "q-09",
+    "question": "If a friend at your fitness gym offers you an unlabelled powder claiming 'crazy pumps without side effects', what should you do?",
+    "options": [
+      "Try a half-scoop to see how your body reacts",
+      "Politely decline and only consume verified, third-party certified products",
+      "Take it only on heavy leg training days",
+      "Mix it with water so it dilutes any prohibited elements"
+    ],
+    "correctIndex": 1,
+    "explanation": "Never consume unlabelled or open supplements. Diluting an illegal substance or taking smaller quantities still results in positive analytical findings and health risks.",
+    "topic": "Ethics & Health",
+    "xp": 20
+  },
+  {
+    "id": "q-10",
+    "question": "What is the global organization responsible for harmonizing anti-doping policies across sports?",
+    "options": [
+      "WADA (World Anti-Doping Agency)",
+      "FIFA Medical Commission",
+      "Interpol Sports Division",
+      "WHO Doping Taskforce"
+    ],
+    "correctIndex": 0,
+    "explanation": "WADA (World Anti-Doping Agency), established in 1999, oversees the World Anti-Doping Code and collaborates with National Anti-Doping Agencies (like NADA) globally.",
+    "topic": "Fundamentals",
+    "xp": 20
+  },
+  {
+    "id": "q-11",
+    "question": "Why does WADA strictly regulate intravenous (IV) infusions or injections?",
+    "options": [
+      "IV needles are painful for athletes",
+      "IV infusions over 100 mL per 12 hours can mask banned substances or artificially manipulate blood parameters",
+      "All hydration must come exclusively from food",
+      "They are only banned in water sports"
+    ],
+    "correctIndex": 1,
+    "explanation": "Intravenous infusions exceeding 100 mL per 12-hour period are prohibited (M2. Chemical and Physical Manipulation) unless legitimately received in hospital treatments.",
+    "topic": "Regulations",
+    "xp": 20
+  },
+  {
+    "id": "q-12",
+    "question": "Can a product marketed as '100% Herbal & All-Natural' cause a positive doping test?",
+    "options": [
+      "No, herbal ingredients are always completely exempted from anti-doping tests",
+      "Yes, natural herbs can contain prohibited alkaloids (e.g., ephedra) or undeclared synthetic compounds",
+      "Only if taken together with dairy milk",
+      "Only during winter sporting events"
+    ],
+    "correctIndex": 1,
+    "explanation": "Plants contain potent pharmacological compounds (like ephedrine from ma huang), and herbal products are notorious for synthetic adulteration.",
+    "topic": "Supplements",
+    "xp": 20
+  },
+  {
+    "id": "q-13",
+    "question": "What is an 'Adverse Analytical Finding' (AAF)?",
+    "options": [
+      "A report from a WADA-accredited laboratory identifying the presence of a prohibited substance in a sample",
+      "A failed psychological questionnaire by a player",
+      "A blood test indicating dehydration only",
+      "An athlete missing a scheduled training session"
+    ],
+    "correctIndex": 0,
+    "explanation": "An AAF is the official laboratory term for when an athlete's urine or blood sample contains a prohibited substance, its metabolites, or markers.",
+    "topic": "Fundamentals",
+    "xp": 20
+  },
+  {
+    "id": "q-14",
+    "question": "What should an athlete do BEFORE taking a new prescription medicine given by their family doctor?",
+    "options": [
+      "Inform the doctor that they are a tested athlete, and verify the active ingredient against Global DRO or NADA guidelines",
+      "Take it immediately and keep the receipt",
+      "Only check if the medicine comes in red pills",
+      "Ask a teammate on WhatsApp"
+    ],
+    "correctIndex": 0,
+    "explanation": "Athletes must notify their healthcare providers of their anti-doping obligations and verify every active ingredient before ingestion.",
+    "topic": "Medications",
+    "xp": 20
+  },
+  {
+    "id": "q-15",
+    "question": "What is the primary danger of using Selective Androgen Receptor Modulators (SARMs) like Ostarine?",
+    "options": [
+      "They cause instant loss of appetite",
+      "They are unapproved experimental drugs with proven risks of liver toxicity, cardiovascular strain, and immediate bans",
+      "They turn urine a bright blue color",
+      "They only affect non-athletes"
+    ],
+    "correctIndex": 1,
+    "explanation": "SARMs have never received regulatory approval for general human use and are strictly prohibited under WADA S1.2 due to severe organ toxicity risks.",
+    "topic": "Ethics & Health",
+    "xp": 20
+  },
+  {
+    "id": "q-16",
+    "question": "Is caffeine currently on the WADA Prohibited List?",
+    "options": [
+      "Yes, all caffeine is banned",
+      "No, caffeine is on the WADA Monitoring Program, meaning it is permitted but monitored for misuse patterns",
+      "It is only banned in chess competitions",
+      "It is banned if consumed before 9 AM"
+    ],
+    "correctIndex": 1,
+    "explanation": "Caffeine was removed from the Prohibited List in 2004. It remains on the Monitoring Program so WADA can track overall usage trends.",
+    "topic": "Supplements",
+    "xp": 20
+  },
+  {
+    "id": "q-17",
+    "question": "What does 'Whereabouts' information refer to for testing pool athletes?",
+    "options": [
+      "Providing their detailed daily location and a 60-minute daily testing window to enable unannounced out-of-competition testing",
+      "Sharing their live GPS location with social media followers",
+      "The location of their favorite gym only",
+      "Their travel receipts from vacation flights"
+    ],
+    "correctIndex": 0,
+    "explanation": "Whereabouts requirements allow anti-doping organizations to conduct unannounced testing 365 days a year without giving prior notice to athletes.",
+    "topic": "Fundamentals",
+    "xp": 20
+  },
+  {
+    "id": "q-18",
+    "question": "What happens if an athlete misses three Whereabouts tests or filing deadlines in a 12-month window?",
+    "options": [
+      "They receive a polite warning letter only",
+      "It constitutes an Anti-Doping Rule Violation (ADRV) resulting in a potential 1 to 2-year suspension",
+      "They must pay a $50 fine",
+      "Their coach is suspended instead"
+    ],
+    "correctIndex": 1,
+    "explanation": "Any combination of three missed tests or filing failures within a rolling 12-month period constitutes an ADRV under Code Article 2.4.",
+    "topic": "Fundamentals",
+    "xp": 20
+  },
+  {
+    "id": "q-19",
+    "question": "If an athlete has asthma and uses an approved salbutamol inhaler, what rule applies?",
+    "options": [
+      "Inhaled salbutamol is permitted within maximum daily therapeutic limits (up to 1600 mcg/24h); exceeding this requires a TUE",
+      "All asthma inhalers are completely illegal for runners",
+      "They can take unlimited doses without any restriction",
+      "They can use oral salbutamol tablets without a prescription"
+    ],
+    "correctIndex": 0,
+    "explanation": "Inhaled salbutamol is permitted up to 1600 mcg over 24 hours (not exceeding 600 mcg over 8 hours). Oral salbutamol is strictly prohibited.",
+    "topic": "Medications",
+    "xp": 20
+  },
+  {
+    "id": "q-20",
+    "question": "What is the single most sustainable foundation for athletic recovery and clean performance?",
+    "options": [
+      "Taking 10 different test boosters every morning",
+      "Prioritizing 7-9 hours of regular sleep, whole food nutrition, adequate hydration, and structured training cycles",
+      "Skipping rest days to train twice as much as competitors",
+      "Relying on unregulated online proprietary blends"
+    ],
+    "correctIndex": 1,
+    "explanation": "Sleep, whole nutrition, hydration, and progressive overload produce 95%+ of athletic adaptations safely and sustainably.",
+    "topic": "Ethics & Health",
+    "xp": 20
+  }
+]
